@@ -1,4 +1,4 @@
-![](\images\xblack.svg)
+![](\\images\xblack.svg)
 
 # Awesome-Sec-GPTs
 
