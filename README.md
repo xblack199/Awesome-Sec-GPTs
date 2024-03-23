@@ -1,4 +1,4 @@
-![](C:\Users\MKhar\OneDrive\Documents\MK-Documents\Typora Documents\images\MD images\xblack-1711219201597-2.svg)
+![](\images\xblack.svg)
 
 # Awesome-Sec-GPTs
 
