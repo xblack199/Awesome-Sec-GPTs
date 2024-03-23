@@ -2,303 +2,214 @@
 
 # Awesome-Sec-GPTs
 
-ChatGPT bots to assist your cybersecurity tasks 
+*ChatGPT bots to assist your cybersecurity tasks* 
 
 
 
 ## Usage
 
+-----------------
 
 
-1. BugBountyGPT
+
+1. [BugBountyGPT](https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt)
 
    `AppSec & Bug Bounty`
 
-   https://chat.openai.com/g/g-Rsk7ADgbD-bugbountygpt
-
-2. MagicUnprotect
+2. [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect)
 
    `(Unprotect DB knowledge about malware evasion techniques)`
 
-   https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect
-
-3. HackTricksGPT
+3. [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt)
 
    `A knowledgeable cybersecurity professional.`
 
-   https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt
-
-4. Pentest GPT
+4. [Pentest GPT](https://chat.openai.com/g/g-bKtlfwitG-pentest-gpt)
 
    `A creative guide for pentesters on finding and exploiting vulnerabilities.`
 
-   https://chat.openai.com/g/g-bKtlfwitG-pentest-gpt
-
-5. Red Team Guide
+5. [Red Team Guide](https://chat.openai.com/g/g-eQlfHmSH5-red-team-guide)
 
    `Red Team Recipe and Guide for Fun & Profit.`
 
-   https://chat.openai.com/g/g-eQlfHmSH5-red-team-guide
-
-6. Pentest reporter
+6. [Pentest reporter](https://chat.openai.com/g/g-dtkGX8MrO-pentest-reporter)
 
    `Assists in writing detailed security reports.`
 
-   https://chat.openai.com/g/g-dtkGX8MrO-pentest-reporter
-
-7. GRC (Governance, Risk, & Compliance) Advisor
+7. [GRC (Governance, Risk, & Compliance) Advisor](https://chat.openai.com/g/g-w7UOEYH3E-grc-governance-risk-compliance-advisor)
 
    `This solution assists organizations in establishing best practices for Governance, Risk, and Compliance for their unique business needs using industry standard frameworks.`
 
-   https://chat.openai.com/g/g-w7UOEYH3E-grc-governance-risk-compliance-advisor
-
-8. GPT H4x0r
+8. [GPT H4x0r](https://chat.openai.com/g/g-QrtVX4w0Z-gpt-h4x0r)
 
    `Expert in hacking and programming queries on LLM V 1.1`
 
-   https://chat.openai.com/g/g-QrtVX4w0Z-gpt-h4x0r
-
-9. Web Hacking Wizard
+9. [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard)
 
    `Engagingly clarifies web security topics with interactive questions.`
 
-   https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard
-
-10. Malware Analyst
+10. [Malware Analyst](https://chat.openai.com/g/g-UsiBwOXNA-malware-analyst)
 
     `Disassembler and debugger with CyberChef-like capabilities.`
 
-    https://chat.openai.com/g/g-UsiBwOXNA-malware-analyst
-
-11. Threat Intel Bot
+11. [Threat Intel Bot](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot)
 
     `A specialized GPT for the latest APT threat intelligence.`
 
-    https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot
-
-12. MITREGPT
+12. [MITREGPT](https://chat.openai.com/g/g-IZ6k3S4Zs-mitregpt)
 
     `Feed me any input and i'll match it with the relevant MITRE ATT&CK techniques and tactics (@mthcht)`
 
-    https://chat.openai.com/g/g-IZ6k3S4Zs-mitregpt
-
-13. Cyber Security Ninja
+13. [Cyber Security Ninja](https://chat.openai.com/g/g-2i9FjbEPq-cyber-security-ninja)
 
     `Cyber Security Incident Assistant`
 
-    https://chat.openai.com/g/g-2i9FjbEPq-cyber-security-ninja
-
-14. ATT&CK Mate
+14. [ATT&CK Mate](https://chat.openai.com/g/g-fCIE7hCLx-att-ck-mate)
 
     `Ask me anything about the ATT&CK`
 
-    https://chat.openai.com/g/g-fCIE7hCLx-att-ck-mate
-
-15. Message Header Analyzer
+15. [Message Header Analyzer](https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyzer)
 
     `Analyzes email headers for security insights, presenting data in a structured table view.`
 
-    https://chat.openai.com/g/g-IHl1UiMr6-message-header-analyzer
-
-16. Bug Bounty Assistant
+16. [Bug Bounty Assistant](https://chat.openai.com/g/g-hnDH58fct-bug-bounty-assistant)
 
     `Conversational guide on web app security, you can provide request/responses. GPT will try to spot vulnerabilities.`
 
-    https://chat.openai.com/g/g-hnDH58fct-bug-bounty-assistant
-
-17. Cyber Mentor
+17. [Cyber Mentor](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor)
 
     `Cybersecurity mentor teaching from the basics to advanced.`
 
-    https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor
-
-18. GP(en)T(ester)
+18. [GP(en)T(ester)](https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester)
 
     `A cybersec assistant for pentesting guidance.`
 
-    https://chat.openai.com/g/g-zQfyABDUJ-gp-en-t-ester
-
-19. CISSP Study Strategy Guide
+19. [CISSP Study Strategy Guide](https://chat.openai.com/g/g-eN8LAtIT5-cissp-study-strategy-guide)
 
     `Expert guide for CISSP topics, with detailed explanations and real-world application.`
 
-    https://chat.openai.com/g/g-eN8LAtIT5-cissp-study-strategy-guide
-
-20. CVEs
+20. [CVEs](https://chat.openai.com/g/g-HQaKYlJhk-cves)
 
     `Look up Common Vulnerabilities and Exposures (CVEs).`
 
-    https://chat.openai.com/g/g-HQaKYlJhk-cves
-
-21. Threat Modelling
+21. [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling)
 
     `A GPT expert in conducting thorough threat modelling for system design and review.`
 
-    https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling
-
-22. Security Architect
+22. [Security Architect](https://chat.openai.com/g/g-oOttabDRT-security-architect)
 
     `An experienced security architect with over 30 years in security across all technology domains.`
 
-    https://chat.openai.com/g/g-oOttabDRT-security-architect
-
-23. Cyber security
+23. [Cyber security](https://chat.openai.com/g/g-yAzCwygpe-cyber-security)
 
     `Cyber security advisor for digital safety`
 
-    https://chat.openai.com/g/g-yAzCwygpe-cyber-security
-
-24. Cyber Security Tutor
+24. [Cyber Security Tutor](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor)
 
     `Quality Cyber Security Advice, Tricks, & Tips`
 
-    https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor
-
-25. PowerShell Experts
+25. [PowerShell Experts](https://chat.openai.com/g/g-lVbzhyr6X-powershell-experts)
 
     `Helps you writing better PowerShell scripts.`
 
-    https://chat.openai.com/g/g-lVbzhyr6X-powershell-experts
-
-26. Bash Script
+26. [Bash Script](https://chat.openai.com/g/g-YQhH6nop3-bash-script)
 
     `You personal highly sophisticated Bash scripting copilot, with a focus on efficient, scalable and high-quality production code.`
 
-    https://chat.openai.com/g/g-YQhH6nop3-bash-script
-
-27. Bash Scripting
+27. [Bash Scripting](https://chat.openai.com/g/g-jaiZcNIme-bash-scripting)
 
     `Open Source Prompt: https://github.com/mleoca/Bash-Scripting-GPT`
 
-    https://chat.openai.com/g/g-jaiZcNIme-bash-scripting
-
-28. Python
+28. [Python](https://chat.openai.com/g/g-cKXjWStaE-python)
 
     `A highly sophisticated GPT tailored for advanced Python programmers focusing on efficient and high-quality production code.`
 
-    https://chat.openai.com/g/g-cKXjWStaE-python
-
-29. Python
+29. [Python](https://chat.openai.com/g/g-jIgQDiQuT-python)
 
     `You personal highly sophisticated Python copilot, with a focus on efficient, scalable and high-quality production code.`
 
-    https://chat.openai.com/g/g-jIgQDiQuT-python
-
-30. Linux Specialist
+30. [Linux Specialist](https://chat.openai.com/g/g-AaCO9ep8Y-linux-specialist)
 
     `Expert in Linux, DevOps, and Infrastructure as Code`
 
-    https://chat.openai.com/g/g-AaCO9ep8Y-linux-specialist
-
-31. Risk Manager GPT
+31. [Risk Manager GPT](https://chat.openai.com/g/g-BRUpErkuv-risk-manager-gpt)
 
     `Expert in risk management, providing clear explanations and examples.`
 
-    https://chat.openai.com/g/g-BRUpErkuv-risk-manager-gpt
-
-32. Phoenix Vulnerability Intelligence GPT
+32. [Phoenix Vulnerability Intelligence GPT](https://chat.openai.com/g/g-1HDpSq4U0-phoenix-vulnerability-intelligence-gpt)
 
     `Expert in analyzing vulnerabilities with ransomware focus with intelligence powered by Phoenix Security`
 
-    https://chat.openai.com/g/g-1HDpSq4U0-phoenix-vulnerability-intelligence-gpt
-
-33. SOC Copilot
+33. [SOC Copilot](https://chat.openai.com/g/g-qvSadylbt-soc-copilot)
 
     `In-depth Security Operations assistant. For guidance on usage, ask for help.`
 
-    https://chat.openai.com/g/g-qvSadylbt-soc-copilot
-
-34. Blue Team Guides
+34. [Blue Team Guides](https://chat.openai.com/g/g-GP9M4UScu-blue-team-guide)
 
     `it is a meticulously crafted arsenal of knowledge, insights, and guidelines that is shaped to empower organizations in crafting, enhancing, and refining their cybersecurity defenses`
 
-    https://chat.openai.com/g/g-GP9M4UScu-blue-team-guide
-
-35. CISO AI
+35. [CISO AI](https://chat.openai.com/g/g-76iz872HL-ciso-ai)
 
     `Team of experts assisting CISOs, CIOs, Exec Teams, and Board Directors in cyber risk oversight and security program management, providing actionable strategic, operational, and tactical support. Enhanced with advanced technical security architecture and engineering expertise.`
 
-    https://chat.openai.com/g/g-76iz872HL-ciso-ai
-
-36. Cyber Security CISO Assistant
+36. [Cyber Security CISO Assistant](https://chat.openai.com/g/g-AInhlHTZG-cyber-security-ciso-assistant)
 
     `Cybersecurity Analyst specialized in the NIST Framework`
 
-    https://chat.openai.com/g/g-AInhlHTZG-cyber-security-ciso-assistant
-
-37. AI OSINT
+37. [AI OSINT](https://chat.openai.com/g/g-aZQ1x6vqB-ai-osint)
 
     `Your AI OSINT assistant. Our tool helps you find the data needle in the internet haystack.`
 
-    https://chat.openai.com/g/g-aZQ1x6vqB-ai-osint
-
-38. OSINT-GPT
+38. [OSINT-GPT](https://chat.openai.com/g/g-ysjJG1VjM-osint-gpt)
 
     `Expert in Open-Source Intelligence`
 
-    https://chat.openai.com/g/g-ysjJG1VjM-osint-gpt
-
-39. SourceCodeAnalysis.GPT
+39. [SourceCodeAnalysis.GPT](https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt)
 
     `upload any project's source code (zip format),Analysis all, Answer any questions to get what you want`
 
-    https://chat.openai.com/g/g-K5Drw2YS9-sourcecodeanalysis-gpt
-
-40. Cyber Guardian
+40. [Cyber Guardian](https://chat.openai.com/g/g-IjjVSZeUV-cyber-guardian)
 
     `A virtual SOC analyst aiding in incident response.`
 
-    https://chat.openai.com/g/g-IjjVSZeUV-cyber-guardian
-
-41. Ethical Hacker GPT
+41. [Ethical Hacker GPT](https://chat.openai.com/g/g-j4PQ2hyqn-ethical-hacker-gpt)
 
     `Cyber security specialist for ethical hacking guidance.`
 
-    https://chat.openai.com/g/g-j4PQ2hyqn-ethical-hacker-gpt
-
-42. Hacker Art (by rez0)
+42. [Hacker Art (by rez0)](https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0)
 
     `Generate badass hacker art and profile pics.`
 
-    https://chat.openai.com/g/g-LjmHKgJZO-hacker-art-by-rez0
-
-43. h4ckGPT
+43. [h4ckGPT](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt)
 
     `Your personal security tool`
 
-    https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt
-
-44. Threat Model Companion
+44. [Threat Model Companion](https://chat.openai.com/g/g-8AM8fQ9wU-threat-model-companion)
 
     `Assists in identifying and mitigating security threats.`
 
-    https://chat.openai.com/g/g-8AM8fQ9wU-threat-model-companion
-
-45. Cybersecurity Requirements Guide
+45. [Cybersecurity Requirements Guide](https://chat.openai.com/g/g-OXhhZQzlV-cybersecurity-requirements-guide)
 
     `I'll help you write cybersecurity requirements!`
 
-    https://chat.openai.com/g/g-OXhhZQzlV-cybersecurity-requirements-guide
-
-46. AdversarialGPT
+46. [AdversarialGPT](https://chat.openai.com/g/g-clndpoLYC-adversarialgpt)
 
     `Adversarial AI expert aiding in AI red teaming, informed by cutting-edge industry research (early dev)`
 
-    https://chat.openai.com/g/g-clndpoLYC-adversarialgpt
-
-47. CyberGPT
+47. [CyberGPT](https://chat.openai.com/g/g-igaKzt9pe-cybergpt)
 
     `Your #1 Cyber Security Adviser`
 
-    https://chat.openai.com/g/g-igaKzt9pe-cybergpt
-
-48. NVD - CVE Research Assistant
+48. [NVD - CVE Research Assistant](https://chat.openai.com/g/g-eNewYWSCa-nvd-cve-research-assistant)
 
     `Expert in CVEs and cybersecurity vulnerabilities, providing precise information from the National Vulnerability Database.`
 
-    https://chat.openai.com/g/g-eNewYWSCa-nvd-cve-research-assistant
 
-    
+
+
+---------------------
+
+
 
 ## Contributing
 
@@ -306,6 +217,12 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+
+
+-----------------
+
+
 
 ## License
 
